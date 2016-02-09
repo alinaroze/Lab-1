@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Lab 1</name>
+	<comment></comment>
+	<projects>
+		<project>Lab 2</project>
+		<project>Lab 3</project>
+		<project>Lab 4</project>
+		<project>Lab 5</project>
+		<project>Lab 6</project>
+		<project>Lab 7</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
